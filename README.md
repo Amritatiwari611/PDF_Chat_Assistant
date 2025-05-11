@@ -15,8 +15,8 @@ PDF Chat Assistant is an interactive tool built with Streamlit, enabling users t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhijeet454/pdf_chat_assistant.git
-   cd pdf-chat-assistant
+   git clone https://github.com/Amritatiwari611/PDF_Chat_Assistant.git
+   cd PDF_Chat_Assistant
    ```
 
 2. Create a virtual environment and activate it:
@@ -71,8 +71,9 @@ PDF Chat Assistant is an interactive tool built with Streamlit, enabling users t
 
 For any inquiries or issues, please contact:
 
+AMRITA TIWARI :(tamrita812@gmail.com)
+NANDNI JHA :(jhanandni707@gmail.com)
 ABHIJEET KUMAR:(abhijeetk6744@gmail.com)
-
 ---
 
-© 2024 ABHIJEET KUMAR. All rights reserved.
+© 2024 AMRITA TIWARI. All rights reserved.
