@@ -71,9 +71,9 @@ PDF Chat Assistant is an interactive tool built with Streamlit, enabling users t
 
 For any inquiries or issues, please contact:
 
-AMRITA TIWARI :(tamrita812@gmail.com)
-NANDNI JHA :(jhanandni707@gmail.com)
-ABHIJEET KUMAR:(abhijeetk6744@gmail.com)
+<h4>AMRITA TIWARI :(tamrita812@gmail.com)</h4>
+<h4>NANDNI JHA :(jhanandni707@gmail.com)</h4>
+<h4>ABHIJEET KUMAR:(abhijeetk6744@gmail.com)</h4>
 ---
 
 © 2024 AMRITA TIWARI. All rights reserved.
